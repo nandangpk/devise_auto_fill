@@ -3,11 +3,11 @@
 A gem to auto fill 'created_by' or 'updated_by' column in ActiveRecord while using 'devise' gem with no pain
 
 ## Table of Content
-* [Summary](https://github.com/nandangpk/devise_auto_fill#summary)
-* [Table of Content](https://github.com/nandangpk/devise_auto_fill#table-of-content)
-* [Project Status](https://github.com/nandangpk/devise_auto_fill#project-status)
-* [Installation](https://github.com/nandangpk/devise_auto_fill#installation)
-* [How to Use?](https://github.com/nandangpk/devise_auto_fill#how-to-use)
+* [Summary](https://github.com/nandangpk/devise_auto_fill?tab=readme-ov-file#summary)
+* [Table of Content](https://github.com/nandangpk/devise_auto_fill?tab=readme-ov-file#table-of-content)
+* [Project Status](https://github.com/nandangpk/devise_auto_fill?tab=readme-ov-file#project-status)
+* [Installation](https://github.com/nandangpk/devise_auto_fill?tab=readme-ov-file#installation)
+* [How to Use?](https://github.com/nandangpk/devise_auto_fill?tab=readme-ov-file#how-to-use)
 
 ## Project Status
 `ONGOING DEVELOPMENT`
